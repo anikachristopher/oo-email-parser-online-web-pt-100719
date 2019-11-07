@@ -18,9 +18,7 @@ class EmailParser
 end
    
    
-  # def self.genres 
-  #   @@genres.uniq! 
-  # end
+
   
   
 #   describe "EmailAddressParser" do
